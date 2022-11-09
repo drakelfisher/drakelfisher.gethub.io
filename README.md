@@ -2,4 +2,7 @@
 Drake Fishers Website
 
 # Header
-theme: minima
+
+# Build Settings
+markdown: kramdown
+theme: Minima
