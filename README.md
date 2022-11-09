@@ -1,8 +1,6 @@
-# drakelfisher.gethub.io
-Drake Fishers Website
 
-# Header
+# Drake Fisher's Website
 
-# Build Settings
-markdown: kramdown
-theme: Minima
+No code good... but hire Drake for many company monies!
+
+
