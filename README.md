@@ -2,4 +2,4 @@
 Drake Fishers Website
 
 # Header
-theme:minima
+theme: minima
