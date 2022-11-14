@@ -9,8 +9,6 @@
 # --- Required options --- #
 ############################
 
-theme: minima
-
 # Name of website
 title: My Website
 
@@ -20,6 +18,8 @@ author: Some Person
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
+
+theme: minima
 
 # navbar-links:
 #   About Me: "aboutme"
