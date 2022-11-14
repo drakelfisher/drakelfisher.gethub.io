@@ -19,7 +19,7 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
 navbar-links:
   About Me: "aboutme"
